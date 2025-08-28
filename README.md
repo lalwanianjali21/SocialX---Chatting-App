@@ -16,7 +16,7 @@ This project focuses on providing a **clean Material 3 UI**, while being fully s
 ---
 
 ## 📸 Screenshots
-| Login Screen | Feed Page | Chat List | Profile |
+Welcome | Login Screen | Feed Page | Profile | Chat List | Chats |
 |-------------|-----------|-----------|---------|
 | ![Login](assets/screenshots/mockup_login.png) | ![Feed](assets/screenshots/mockup_feed.png) | ![Chat](assets/screenshots/mockup_chat.png) | *(Add your profile mockup)* |
 
