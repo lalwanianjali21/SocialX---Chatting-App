@@ -18,7 +18,7 @@ This project focuses on providing a **clean Material 3 UI**, while being fully s
 ## 📸 Screenshots
 Welcome | Login Screen | Feed Page | Profile | Chat List | Chats |
 |-------------|-----------|-----------|---------|
-| ![Login](assets/screenshots/mockup_login.png) | ![Feed](assets/screenshots/mockup_feed.png) | ![Chat](assets/screenshots/mockup_chat.png) | *(Add your profile mockup)* |
+| ![Welcome]() | ![Login](SocialX---Chatting-App/blob/main/UI%20png/login.png) | ![Feed](SocialX---Chatting-App/blob/main/UI%20png/Foryou_page.png.png) | ![profile](SocialX---Chatting-App/blob/main/UI%20png/profileinfo.png) | ![chat List](SocialX---Chatting-App/blob/main/UI%20png/Messages.png.png) | ![Chat](SocialX---Chatting-App/blob/main/UI%20png/Chat.png.png)
 
 ---
 
