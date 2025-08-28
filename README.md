@@ -5,8 +5,7 @@ This project focuses on providing a **clean Material 3 UI**, while being fully s
 
 ---
 
-## 🚀 Features
-✅ **Beautiful Material 3 UI** with gradient accents  
+## 🚀 Features 
 ✅ **Login & Sign-up Screens** with minimal design  
 ✅ **Feed Page** – Explore posts with likes and comments  
 ✅ **Real-Time Chat UI** – Modern chat list and message screens  
@@ -17,8 +16,18 @@ This project focuses on providing a **clean Material 3 UI**, while being fully s
 
 ## 📸 Screenshots
 Welcome | Login Screen | Feed Page | Profile | Chat List | Chats |
-|-------------|-----------|-----------|---------|
-| ![Welcome]() | ![Login](SocialX---Chatting-App/blob/main/UI%20png/login.png) | ![Feed](SocialX---Chatting-App/blob/main/UI%20png/Foryou_page.png.png) | ![profile](SocialX---Chatting-App/blob/main/UI%20png/profileinfo.png) | ![chat List](SocialX---Chatting-App/blob/main/UI%20png/Messages.png.png) | ![Chat](SocialX---Chatting-App/blob/main/UI%20png/Chat.png.png)
+
+![Welcome](https://github.com/lalwanianjali21/SocialX---Chatting-App/blob/main/UI%20png/welcome.png.png)
+
+![Login](https://github.com/lalwanianjali21/SocialX---Chatting-App/blob/main/UI%20png/login.png.png)
+
+![Feed](https://github.com/lalwanianjali21/SocialX---Chatting-App/blob/main/UI%20png/Foryou_page.png.png)
+
+![profile](https://github.com/lalwanianjali21/SocialX---Chatting-App/blob/main/UI%20png/profileinfo.png.png)
+
+![chat List](https://github.com/lalwanianjali21/SocialX---Chatting-App/blob/main/UI%20png/Messages.png.png)
+
+![Chat](https://github.com/lalwanianjali21/SocialX---Chatting-App/blob/main/UI%20png/Chat.png.png)
 
 ---
 
